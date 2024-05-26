@@ -40,7 +40,7 @@ function LoadFOOTER() {
     }
 }
 
-
+// sample code
 
 // LoadNAVBAR와 LoadFOOTER 함수를 호출하여 네비게이션 바와 footer를 로드
 window.onload = function () {
